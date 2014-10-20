@@ -1,4 +1,4 @@
-Foundation
+Nicksys Foundation
 ==========
 
 Nicksys Foundation is an architecture framework for building an enterprise applications. 

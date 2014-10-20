@@ -19,3 +19,5 @@ This framework helps you to develop the back-end of any web solutions and it dep
 and more.
 
 
+It comes with a tool that helps to generate all the necessary classes based on your database schema.
+
